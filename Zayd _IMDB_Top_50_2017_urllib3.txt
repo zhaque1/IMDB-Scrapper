@@ -1,0 +1,201 @@
+Most Popular Feature Films Released 2017-01-01 to 2017-12-31 :
+1.
+Movie: Murder on the Orient Express
+Genre: Crime, Drama, Mystery            
+Description:     When a murder occurs on the train he's travelling on, celebrated detective Hercule Poirot is recruited to solve the case.
+2.
+Movie: The Greatest Showman
+Genre: Biography, Drama, Musical            
+Description:     Celebrates the birth of show business, and tells of a visionary who rose from nothing to create a spectacle that became a worldwide sensation.
+3.
+Movie: Thor: Ragnarok
+Genre: Action, Adventure, Comedy            
+Description:     Thor is imprisoned on the planet Sakaar, and must race against time to return to Asgard and stop Ragnark, the destruction of his world, at the hands of the powerful and ruthless villain Hela.
+4.
+Movie: Three Billboards Outside Ebbing, Missouri
+Genre: Comedy, Crime, Drama            
+Description:     A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit.
+5.
+Movie: It
+Genre: Drama, Horror, Thriller            
+Description:     In the summer of 1989, a group of bullied kids band together to destroy a shapeshifting monster, which disguises itself as a clown and preys on the children of Derry, their small Maine town.
+6.
+Movie: Justice League
+Genre: Action, Adventure, Fantasy            
+Description:     Fueled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne enlists the help of his newfound ally, Diana Prince, to face an even greater enemy.
+7.
+Movie: Kingsman: The Golden Circle
+Genre: Action, Adventure, Comedy            
+Description:     When their headquarters are destroyed and the world is held hostage, the Kingsman's journey leads them to the discovery of an allied spy organization in the United States. These two elite secret organizations must band together to defeat a common enemy.
+8.
+Movie: Papillon
+Genre: Crime, Drama, Mystery            
+Description:     Wrongfully convicted for murder, Henri Charriere forms an unlikely relationship with fellow inmate and quirky convicted counterfeiter Louis Dega, in an attempt to escape from the notorious penal colony on Devil's Island.
+9.
+Movie: Jumanji: Welcome to the Jungle
+Genre: Action, Adventure, Comedy            
+Description:     Four teenagers are sucked into a magical video game, and the only way they can escape is to work together to finish the game.
+10.
+Movie: Spider-Man: Homecoming
+Genre: Action, Adventure, Sci-Fi            
+Description:     Peter Parker balances his life as an ordinary high school student in Queens with his superhero alter-ego Spider-Man, and finds himself on the trail of a new menace prowling the skies of New York City.
+11.
+Movie: Blade Runner 2049
+Genre: Drama, Mystery, Sci-Fi            
+Description:     A young blade runner's discovery of a long-buried secret leads him to track down former blade runner Rick Deckard, who's been missing for thirty years.
+12.
+Movie: I Kill Giants
+Genre: Drama, Fantasy, Thriller            
+Description:     Barbara Thorson struggles through life by escaping into a fantasy life of magic and monsters.
+13.
+Movie: Star Wars: Episode VIII - The Last Jedi
+Genre: Action, Adventure, Fantasy            
+Description:     Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares for battle with the First Order.
+14.
+Movie: Coco
+Genre: Animation, Adventure, Comedy            
+Description:     Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.
+15.
+Movie: A Prayer Before Dawn
+Genre: Action, Biography, Crime            
+Description:     The true story of an English boxer incarcerated in one of Thailand's most notorious prisons as he fights in Muay Thai tournaments to earn his freedom.
+16.
+Movie: First Reformed
+Genre: Drama, Thriller            
+Description:     A priest of a small congregation in upstate New York grapples with mounting despair brought on by tragedy, worldly concerns and a tormented past.
+17.
+Movie: Baby Driver
+Genre: Action, Crime, Drama            
+Description:     After being coerced into working for a crime boss, a young getaway driver finds himself taking part in a heist doomed to fail.
+18.
+Movie: Revenge
+Genre: Action, Horror, Thriller            
+Description:     Never take your mistress on an annual guys' getaway, especially one devoted to hunting - a violent lesson for three wealthy married men.
+19.
+Movie: Guardians of the Galaxy Vol. 2
+Genre: Action, Adventure, Comedy            
+Description:     The Guardians must fight to keep their newfound family together as they unravel the mystery of Peter Quill's true parentage.
+20.
+Movie: The Shape of Water
+Genre: Adventure, Drama, Fantasy            
+Description:     At a top secret research facility in the 1960s, a lonely janitor forms a unique relationship with an amphibious creature that is being held in captivity.
+21.
+Movie: Beauty and the Beast
+Genre: Family, Fantasy, Musical            
+Description:     A selfish prince is cursed to become a monster for the rest of his life, unless he learns to fall in love with a beautiful young woman he keeps prisoner.
+22.
+Movie: Call Me by Your Name
+Genre: Drama, Romance            
+Description:     In 1980s Italy, a romance blossoms between a seventeen year-old student and the older man hired as his father's research assistant.
+23.
+Movie: Wonder Woman
+Genre: Action, Adventure, Fantasy            
+Description:     When a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian warrior in training, leaves home to fight a war, discovering her full powers and true destiny.
+24.
+Movie: Get Out
+Genre: Horror, Mystery, Thriller            
+Description:     A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.
+25.
+Movie: Baywatch
+Genre: Action, Comedy, Crime            
+Description:     Devoted lifeguard Mitch Buchannon butts heads with a brash new recruit, as they uncover a criminal plot that threatens the future of the bay.
+26.
+Movie: Dunkirk
+Genre: Action, Drama, History            
+Description:     Allied soldiers from Belgium, the British Empire and France are surrounded by the German Army, and evacuated during a fierce battle in World War II.
+27.
+Movie: The Wife
+Genre: Drama            
+Description:     A wife questions her life choices as she travels to Stockholm with her husband, where he is slated to receive the Nobel Prize for Literature.
+28.
+Movie: Mother!
+Genre: Drama, Horror, Mystery            
+Description:     A couple's relationship is tested when uninvited guests arrive at their home, disrupting their tranquil existence.
+29.
+Movie: Hostiles
+Genre: Action, Adventure, Drama            
+Description:     In 1892, a legendary Army Captain reluctantly agrees to escort a Cheyenne chief and his family through dangerous territory.
+30.
+Movie: I, Tonya
+Genre: Biography, Comedy, Drama            
+Description:     Competitive ice skater Tonya Harding rises amongst the ranks at the U.S. Figure Skating Championships, but her future in the activity is thrown into doubt when her ex-husband intervenes.
+31.
+Movie: Logan
+Genre: Action, Drama, Sci-Fi            
+Description:     In the near future, a weary Logan cares for an ailing Professor X, somewhere on the Mexican border. However, Logan's attempts to hide from the world, and his legacy, are upended when a young mutant arrives, pursued by dark forces.
+32.
+Movie: Wonder
+Genre: Drama, Family            
+Description:     Based on the New York Times bestseller, WONDER tells the incredibly inspiring and heartwarming story of August Pullman, a boy with facial differences who enters 5th grade, attending a mainstream elementary school for the first time.
+33.
+Movie: John Wick: Chapter 2
+Genre: Action, Crime, Thriller            
+Description:     After returning to the criminal underworld to repay a debt, John Wick discovers that a large bounty has been put on his life.
+34.
+Movie: Wind River
+Genre: Crime, Drama, Mystery            
+Description:     A veteran hunter helps an FBI agent investigate the murder of a young woman on a Wyoming Native American reservation.
+35.
+Movie: Transformers: The Last Knight
+Genre: Action, Adventure, Sci-Fi            
+Description:     Autobots and Decepticons are at war, with humans on the sidelines. Optimus Prime is gone. The key to saving our future lies buried in the secrets of the past, in the hidden history of Transformers on Earth.
+36.
+Movie: 47 Meters Down
+Genre: Adventure, Drama, Horror            
+Description:     Two sisters vacationing in Mexico are trapped in a shark cage at the bottom of the ocean. With less than an hour of oxygen left and great white sharks circling nearby, they must fight to survive.
+37.
+Movie: The Fate of the Furious
+Genre: Action, Crime, Thriller            
+Description:     When a mysterious woman seduces Dom into the world of terrorism and a betrayal of those closest to him, the crew face trials that will test them as never before.
+38.
+Movie: You Were Never Really Here
+Genre: Drama, Mystery, Thriller            
+Description:     A traumatized veteran, unafraid of violence, tracks down missing girls for a living. When a job spins out of control, Joe's nightmares overtake him as a conspiracy is uncovered leading to what may be his death trip or his awakening.
+39.
+Movie: The Snowman
+Genre: Crime, Drama, Mystery            
+Description:     Detective Harry Hole investigates the disappearance of a woman whose scarf is found wrapped around an ominous-looking snowman.
+40.
+Movie: The Endless
+Genre: Fantasy, Horror, Sci-Fi            
+Description:     Two brothers return to the cult they fled from years ago to discover that the group's beliefs may be more sane than they once thought.
+41.
+Movie: American Made
+Genre: Action, Biography, Comedy            
+Description:     The story of Barry Seal, an American pilot who became a drug-runner for the CIA in the 1980s in a clandestine operation that would be exposed as the Iran-Contra Affair.
+42.
+Movie: Lady Bird
+Genre: Comedy, Drama            
+Description:     In 2002, an artistically inclined seventeen-year-old girl comes of age in Sacramento, California.
+43.
+Movie: Pirates of the Caribbean: Dead Men Tell No Tales
+Genre: Action, Adventure, Fantasy            
+Description:     Captain Jack Sparrow searches for the trident of Poseidon while being pursued by an undead sea captain and his crew.
+44.
+Movie: Geostorm
+Genre: Action, Sci-Fi, Thriller            
+Description:     When the network of satellites designed to control the global climate starts to attack Earth, it's a race against the clock for its creator to uncover the real threat before a worldwide Geostorm wipes out everything and everyone.
+45.
+Movie: Marrowbone
+Genre: Drama, Horror, Thriller            
+Description:     A young man and his three younger siblings, who have kept secret the death of their beloved mother in order to remain together, are plagued by a sinister presence in the sprawling manor in which they live.
+46.
+Movie: Pitch Perfect 3
+Genre: Comedy, Music            
+Description:     Following their win at the world championship, the now separated Bellas reunite for one last singing competition at an overseas USO tour, but face a group who uses both instruments and voices.
+47.
+Movie: Molly's Game
+Genre: Biography, Crime, Drama            
+Description:     The true story of Molly Bloom, an Olympic-class skier who ran the world's most exclusive high-stakes poker game and became an FBI target.
+48.
+Movie: Loving Pablo
+Genre: Biography, Crime, Drama            
+Description:     A journalist strikes up a romantic relationship with notorious drug lord Pablo Escobar.
+49.
+Movie: The Post
+Genre: Biography, Drama, History            
+Description:     A cover-up that spanned four U.S. Presidents pushed the country's first female newspaper publisher and a hard-driving editor to join an unprecedented battle between the press and the government.
+50.
+Movie: Valerian and the City of a Thousand Planets
+Genre: Action, Adventure, Fantasy            
+Description:     A dark force threatens Alpha, a vast metropolis and home to species from a thousand planets. Special operatives Valerian and Laureline must race to identify the marauding menace and safeguard not just Alpha, but the future of the universe.

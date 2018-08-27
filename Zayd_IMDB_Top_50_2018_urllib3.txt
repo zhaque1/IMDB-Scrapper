@@ -1,0 +1,201 @@
+Most Popular Feature Films Released 2018-01-01 to 2018-12-31 :
+1.
+Movie: The Meg
+Genre: Action, Horror, Sci-Fi            
+Description:     After escaping an attack by what he claims was a 70-foot shark, Jonas Taylor must confront his fears to save those trapped in a sunken submersible.
+2.
+Movie: Mission: Impossible - Fallout
+Genre: Action, Adventure, Thriller            
+Description:     Ethan Hunt and his IMF team, along with some familiar allies, race against time after a mission gone wrong.
+3.
+Movie: Avengers: Infinity War
+Genre: Action, Adventure, Fantasy            
+Description:     The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.
+4.
+Movie: Deadpool 2
+Genre: Action, Adventure, Comedy            
+Description:     Foul-mouthed mutant mercenary Wade Wilson (AKA. Deadpool), brings together a team of fellow mutant rogues to protect a young boy with supernatural abilities from the brutal, time-traveling cyborg, Cable.
+5.
+Movie: BlacKkKlansman
+Genre: Biography, Comedy, Crime            
+Description:     Ron Stallworth, an African-American police officer from Colorado, successfully manages to infiltrate the local Ku Klux Klan with the help of a white surrogate, who eventually becomes head of the local branch.
+6.
+Movie: Crazy Rich Asians
+Genre: Comedy, Romance            
+Description:     This contemporary romantic comedy, based on a global bestseller, follows native New Yorker Rachel Chu to Singapore to meet her boyfriend's family.
+7.
+Movie: Tag
+Genre: Comedy            
+Description:     A small group of former classmates organize an elaborate, annual game of tag that requires some to travel all over the country.
+8.
+Movie: The Equalizer 2
+Genre: Action, Crime, Thriller            
+Description:     Robert McCall serves an unflinching justice for the exploited and oppressed, but how far will he go when that is someone he loves?
+9.
+Movie: Upgrade
+Genre: Action, Horror, Sci-Fi            
+Description:     Set in the near-future, technology controls nearly all aspects of life. But when Grey, a self-identified technophobe, has his world turned upside down, his only hope for revenge is an experimental computer chip implant called Stem.
+10.
+Movie: Slender Man
+Genre: Horror, Mystery, Thriller            
+Description:     In a small town in Massachusetts, a group of friends, fascinated by the internet lore of the Slender Man, attempt to prove that he doesn't actually exist - until one of them mysteriously goes missing.
+11.
+Movie: Mile 22
+Genre: Action, Adventure, Crime            
+Description:     An elite American intelligence officer, aided by a top-secret tactical command unit, tries to smuggle a mysterious police officer with sensitive information out of the country.
+12.
+Movie: Ant-Man and the Wasp
+Genre: Action, Adventure, Sci-Fi            
+Description:     As Scott Lang balances being both a Super Hero and a father, Hope van Dyne and Dr. Hank Pym present an urgent new mission that finds the Ant-Man fighting alongside The Wasp to uncover secrets from their past.
+13.
+Movie: Mamma Mia! Here We Go Again
+Genre: Comedy, Musical            
+Description:     Five years after the events of Mamma Mia! (2008), Sophie prepares for the grand reopening of Donna's hotel as she learns more about her mother's past.
+14.
+Movie: The Guernsey Literary and Potato Peel Pie Society
+Genre: Drama, History, Romance            
+Description:     In the aftermath of World War II, a writer forms an unexpected bond with the residents of Guernsey Island when she decides to write a book about their experiences during the war.
+15.
+Movie: The Package
+Genre: Comedy            
+Description:     When a group of teenage friends go on a spring break camping trip, an unfortunate accident sets off a race against time to save their friend's most prized possession.
+16.
+Movie: Christopher Robin
+Genre: Animation, Adventure, Comedy            
+Description:     A working-class family man, Christopher Robin, encounters his childhood friend Winnie-the-Pooh, who helps him to rediscover the joys of life.
+17.
+Movie: Jurassic World: Fallen Kingdom
+Genre: Action, Adventure, Sci-Fi            
+Description:     When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.
+18.
+Movie: The Spy Who Dumped Me
+Genre: Action, Adventure, Comedy            
+Description:     Audrey and Morgan are best friends who unwittingly become entangled in an international conspiracy when one of the women discovers the boyfriend who dumped her was actually a spy.
+19.
+Movie: Ready Player One
+Genre: Action, Adventure, Sci-Fi            
+Description:     When the creator of a virtual reality world called the OASIS dies, he releases a video in which he challenges all OASIS users to find his Easter Egg, which will give the finder his fortune.
+20.
+Movie: Ralph Breaks the Internet
+Genre: Animation, Adventure, Comedy            
+Description:     Six years after the events of "Wreck-It Ralph," Ralph and Vanellope, now friends, discover a wi-fi router in their arcade, leading them into a new adventure.
+21.
+Movie: Patient Zero
+Genre: Action, Drama, Horror            
+Description:     After an unprecedented global pandemic turns the majority of humankind into violent "Infected," a man gifted with the ability to speak the Infected's new language leads the last survivors on a hunt for Patient Zero and a cure.
+22.
+Movie: Alpha
+Genre: Adventure, Drama, Family            
+Description:     In the prehistoric past, a young man struggles to return home after being separated from his tribe during a buffalo hunt. He finds a similarly lost wolf companion, and starts a friendship that would change humanity.
+23.
+Movie: The Nun
+Genre: Horror, Mystery, Thriller            
+Description:     A priest with a haunted past and a novice on the threshold of her final vows are sent by the Vatican to investigate the death of a young nun in Romania and confront a malevolent force in the form of a demonic nun.
+24.
+Movie: The Happytime Murders
+Genre: Action, Comedy, Crime            
+Description:     When the puppet cast of an '80s children's TV show begin to get murdered one by one, a disgraced LAPD detective-turned-private eye puppet takes on the case.
+25.
+Movie: The Darkest Minds
+Genre: Sci-Fi, Thriller            
+Description:     Imprisoned by an adult world that now fears everyone under 18, a group of teens form a resistance group to fight back and reclaim control of their future.
+26.
+Movie: Venom
+Genre: Action, Horror, Sci-Fi            
+Description:     When Eddie Brock acquires the powers of a symbiote, he will have to release his alter-ego "Venom" to save his life.
+27.
+Movie: Rampage
+Genre: Action, Adventure, Sci-Fi            
+Description:     When three different animals become infected with a dangerous pathogen, a primatologist and a geneticist team up to stop them from destroying Chicago.
+28.
+Movie: A Quiet Place
+Genre: Drama, Horror, Sci-Fi            
+Description:     In a post-apocalyptic world, a family is forced to live in silence while hiding from monsters with ultra-sensitive hearing.
+29.
+Movie: To All the Boys I've Loved Before
+Genre: Drama, Romance            
+Description:     A teenage girl's secret love letters are exposed and wreak havoc on her love life.
+30.
+Movie: The Predator
+Genre: Action, Adventure, Horror            
+Description:     When a young boy accidentally triggers the universe's most lethal hunters' return to Earth, only a ragtag crew of ex-soldiers and a disgruntled science teacher can prevent the end of the human race.
+31.
+Movie: American Animals
+Genre: Crime, Drama            
+Description:     Four young men mistake their lives for a movie and attempt one of the most audacious heists in U.S. history.
+32.
+Movie: Extinction
+Genre: Action, Drama, Sci-Fi            
+Description:     A father has a recurring dream of losing his family. His nightmare turns into reality when the planet is invaded by a force bent on destruction. Fighting for their lives, he comes to realize an unknown strength to keep them safe from harm.
+33.
+Movie: Like Father
+Genre: Comedy, Drama            
+Description:     A workaholic woman who is left at the altar takes her honeymoon trip anyway, joined by her overachieving father, who left her mother because he believed his family was holding back his ...                See full summary
+34.
+Movie: Skyscraper
+Genre: Action, Thriller            
+Description:     A security expert must infiltrate a burning skyscraper, 225 stories above ground, when his family are trapped inside by criminals.
+35.
+Movie: Life of the Party
+Genre: Comedy            
+Description:     After her husband abruptly asks for a divorce, a middle-aged mother returns to college in order to complete her degree.
+36.
+Movie: Black Panther
+Genre: Action, Adventure, Sci-Fi            
+Description:     T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.
+37.
+Movie: Incredibles 2
+Genre: Animation, Action, Adventure            
+Description:     Bob Parr (Mr. Incredible) is left to care for the kids while Helen (Elastigirl) is out saving the world.
+38.
+Movie: Overboard
+Genre: Comedy, Romance            
+Description:     A spoiled, wealthy yacht owner is thrown overboard and becomes the target of revenge from his mistreated employee.
+39.
+Movie: Book Club
+Genre: Comedy, Drama, Romance            
+Description:     Four lifelong friends have their lives forever changed after reading 50 Shades of Grey in their monthly book club.
+40.
+Movie: The Little Mermaid
+Genre: Adventure, Drama, Fantasy            
+Description:     A young reporter and his niece discover a beautiful and enchanting creature they believe to be the real little mermaid.
+41.
+Movie: Green Book
+Genre: Drama            
+Description:     A working-class Italian-American bouncer becomes the driver of an African-American classical pianist on a tour of venues through the 1960s American South.
+42.
+Movie: Aquaman
+Genre: Action, Adventure, Fantasy            
+Description:     Arthur Curry learns that he is the heir to the underwater kingdom of Atlantis, and must step forward to lead his people and be a hero to the world.
+43.
+Movie: Widows
+Genre: Crime, Drama, Thriller            
+Description:     Set in contemporary Chicago, amidst a time of turmoil, four women with nothing in common except a debt left behind by their dead husbands' criminal activities, take fate into their own hands, and conspire to forge a future on their own terms.
+44.
+Movie: Slaughterhouse Rulez
+Genre: Action, Comedy, Horror            
+Description:     An illustrious British boarding school becomes a bloody battleground when a mysterious sinkhole appears at a nearby fracking site unleashing unspeakable horror.
+45.
+Movie: Eighth Grade
+Genre: Comedy, Drama            
+Description:     An introverted teenage girl tries to survive the last week of her disastrous eighth grade year before leaving to start high school.
+46.
+Movie: The Nutcracker and the Four Realms
+Genre: Adventure, Family, Fantasy            
+Description:     A young girl is transported into a magical world of gingerbread soldiers and an army of mice.
+47.
+Movie: Bad Samaritan
+Genre: Horror, Thriller            
+Description:     A pair of burglars stumble upon a woman being held captive in a home they intended to rob.
+48.
+Movie: Blockers
+Genre: Comedy            
+Description:     Three parents try to stop their daughters from losing their virginity on prom night.
+49.
+Movie: Solo: A Star Wars Story
+Genre: Action, Adventure, Fantasy            
+Description:     During an adventure into the criminal underworld, Han Solo meets his future copilot Chewbacca and encounters Lando Calrissian years before joining the Rebellion.
+50.
+Movie: Hereditary
+Genre: Drama, Horror, Mystery            
+Description:     After the family matriarch passes away, a grieving family is haunted by tragic and disturbing occurrences, and begin to unravel dark secrets.
